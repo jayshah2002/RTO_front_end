@@ -1,0 +1,63 @@
+.title {
+    text-align: center;
+    width: 30vw;
+    background-color: rgb(190, 164, 214);
+    padding: 2vw 1vw;
+    border-radius: 10px 10px 0 0;
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.user {
+    border: 1px solid rgb(172, 171, 171);
+    border-radius: 10px;
+    padding: 1vw 1vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    outline: none;
+    margin: 5px;
+    color: rgb(94, 102, 102);
+}
+
+.signup {
+    display: flex;
+}
+
+.form {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+    margin-left: 33%;
+    width: 30vw;
+    padding: 2vw 1vw;
+    background-color: #1C6758;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.parivahan {
+    height: 300px;
+    margin-top: 10%;
+    margin-left: 40%;
+}
+
+.logo {
+    margin-left: 50%;
+}
+
+textarea {
+    height: 80px;
+    border: 1px solid rgb(172, 171, 171);
+    border-radius: 10px;
+    padding: 1vw 1vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    outline: none;
+    margin: 5px;
+}
+
+input {
+    border: 1px solid rgb(172, 171, 171);
+    border-radius: 10px;
+    padding: 1vw 1vw;
+    outline: none;
+    margin: 5px;
+}
